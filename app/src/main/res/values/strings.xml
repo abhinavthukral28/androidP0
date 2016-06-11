@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Abhinav-Portfolio</string>
+    <string name="p1">Popular Movies</string>
+    <string name="p2">Stock Hawk</string>
+    <string name="p3">Build it Bigger</string>
+    <string name="p4">Make Your App Material</string>
+    <string name="p5">Go Ubiquitous</string>
+    <string name="p6">Capstone</string>
+</resources>
